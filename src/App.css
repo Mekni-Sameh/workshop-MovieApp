@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.d-flex{
+  width:50%;
+}
+p.card-text {
+  height: 95px;
+  overflow: hidden;
+}
+img.card-img-top {
+  height: 300px;
+}
+.card{
+  width: 18rem;
+    height: 510px;
+    margin: 20px;
+    justify-content: center;
+}
+.rate{
+  color: gold;
+}
